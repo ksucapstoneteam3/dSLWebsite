@@ -1,9 +1,0 @@
-/*export { HomePage } from './pages';
-export { Members } from './pages';
-export { News } from './pages';
-export { AboutUs } from './pages';
-export { WorkWithUs } from './pages';
-export { ResearchArea } from './pages';
-export { ResearchProject } from './pages';
-export { Publications } from './pages';
-export { CallForPaper } from './pages';*/
